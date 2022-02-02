@@ -1,0 +1,2 @@
+Support API Version Format - 
+https://github.com/dotnet/aspnet-api-versioning/wiki/Version-Format
